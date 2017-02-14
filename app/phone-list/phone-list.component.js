@@ -15,5 +15,7 @@ angular.
                         snippet: 'The Next, Next Generation tablet.'
                     }
                 ];
+
+                this.orderProp = 'age';
             }
         });
